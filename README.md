@@ -14,7 +14,7 @@ MERN ThinkBoard
  
 
 🚀 Live Link
-🔗 https://mern-thinkboard-vxpc.onrender.com
+🔗 https://mern-thinkboard-1-d9yq.onrender.com/
 
 🛠️ Tech Stack
 
